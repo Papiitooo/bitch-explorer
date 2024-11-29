@@ -1,8 +1,8 @@
 {
-  "name": "EthereumClassicExplorer",
+  "name": "BitchCoinExplorer",
   "private": false,
   "version": "0.2.0",
-  "description": "A lightweight ethereum classic block explorer",
+  "description": "A lightweight EVM block explorer",
   "repository": "https://github.com/ethereumproject/explorer",
   "license": "MIT",
   "scripts": {
