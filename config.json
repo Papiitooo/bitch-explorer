@@ -1,5 +1,5 @@
 {
-    "nodeAddr":     "127.0.0.1",
+    "nodeAddr":     "localhost",
     "gethPort":     4052,
     "startBlock":   0,
     "quiet":        true,
